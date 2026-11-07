@@ -1,6 +1,6 @@
 # Hola, soy Victor Mendoza 👋
 
-Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranquilla, Colombia). Me interesa la ciberseguridad y la IA basada en la inteligencia artificiak.
+Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranquilla, Colombia). Me interesa la ciberseguridad y la IA basada en la inteligencia artificial.
 
 ## Proyectos
 
