@@ -7,6 +7,8 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranqui
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | [Math Fighters](https://github.com/vmpestana/math-fighters) | Juego de combate por turnos donde atacas resolviendo operaciones matemáticas | Unity, C# |
+| [No dejes caer la pelota](https://github.com/vmpestana/reto3-pelota-fpga) | Juego en FPGA con teclado PS/2 y monitor VGA | VHDL, Quartus, DE2-115 |
+| [Calculadora Nios II](https://github.com/vmpestana/calculadora-nios2) | Calculadora y juego de memoria en ensamblador | Ensamblador Nios II, CPUlator |
 | [Exponenciación modular](https://github.com/vmpestana/exponenciacion-modular) | Comparación experimental de algoritmos para calcular `a^b mod n` | Python, matplotlib |
 | [ALU de 4 bits](https://github.com/vmpestana/alu-4bits-logisim) | Unidad aritmético-lógica que suma, resta y compara, con displays de 7 segmentos | Logisim-evolution |
 | [Cronómetro digital](https://github.com/vmpestana/cronometro-logisim) | Cronómetro configurable con máquina de estados y selector de velocidad | Logisim-evolution |
