@@ -1,6 +1,6 @@
 # Hola, soy Victor Mendoza 👋
 
-Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranquilla, Colombia). Me interesan el diseño digital, los algoritmos y hacer cosas que la gente pueda usar.
+Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranquilla, Colombia). Me interesa la ciberseguridad y la IA basada en la inteligencia artificiak.
 
 ## Proyectos
 
@@ -14,4 +14,4 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranqui
 
 ## Herramientas
 
-Python · C# · Unity · HTML/CSS/JavaScript · VHDL · Logisim · Nios II
+Python · C# · Unity · HTML/CSS/JavaScript · VHDL · Logisim · Nios II · Kali Linux
